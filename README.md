@@ -5,6 +5,7 @@ This repository contains a full-stack application for managing research papers. 
 ## Table of Contents
 
 - [Project Overview](#project-overview)
+- [Demo Video](#demo-video)
 - [Frontend Setup](#frontend-setup)
 - [Backend Setup](#backend-setup)
 - [Running the Application](#running-the-application)
@@ -26,6 +27,12 @@ The Research Papers Management System consists of two main components:
 - **View Saved Papers:** Users can view a list of their saved papers.
 - **Remove Papers:** Users can remove papers from their saved list.
 
+## Demo Video
+
+Watch the demo video of the application here:
+
+<iframe src="https://drive.google.com/file/d/1iAVygItZqZj_j4V5ItM_mWpFP0F0pCms/preview" width="640" height="480" allow="autoplay"></iframe>
+
 ## Frontend Setup
 
 The frontend is built with React and uses Material-UI for styling. Follow these steps to set up the frontend:
@@ -33,7 +40,7 @@ The frontend is built with React and uses Material-UI for styling. Follow these 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/research-papers-frontend.git
+git clone https://github.com/srs-sudeep/arissto.git
 cd aristto-client
 ```
 
