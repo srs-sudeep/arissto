@@ -31,7 +31,7 @@ The Research Papers Management System consists of two main components:
 
 Watch the demo video of the application here:
 
-<iframe src="https://drive.google.com/file/d/1iAVygItZqZj_j4V5ItM_mWpFP0F0pCms/preview" width="640" height="480" allow="autoplay"></iframe>
+https://github.com/user-attachments/assets/48abb4b2-b3f5-45c1-a60d-3d050d6bcb38
 
 ## Frontend Setup
 
