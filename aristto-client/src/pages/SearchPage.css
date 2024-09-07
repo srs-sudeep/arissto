@@ -1,0 +1,46 @@
+/* Ensure the search page container covers the full viewport height and centers its content */
+.search-page {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+/* Center the logo and provide some margin below it */
+.logo-container {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+/* Style the logo image */
+.logo {
+    max-width: 100%;
+    height: auto;
+    width: 150px; /* Adjust the logo size as needed */
+}
+
+/* Ensure the search container is responsive */
+.search-container {
+    width: 100%;
+    max-width: 600px; /* Adjust max-width to fit the design */
+}
+
+/* Style the search bar */
+.search-bar {
+    display: flex;
+    align-items: center;
+    padding: 5px 10px;
+    border-radius:50%;
+    background-color: white; /* White background for the search bar */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Subtle shadow for the search bar */
+}
+
+/* Style the search input */
+.search-bar .MuiInputBase-root {
+    flex: 1;
+    margin-left: 8px; /* Space between input and icon */
+}

@@ -1,0 +1,31 @@
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Virtual environment
+venv/
+.venv/
+
+# FastAPI
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# Environment files
+.env
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Build and distribution directories
+build/
+dist/
+*.egg-info/

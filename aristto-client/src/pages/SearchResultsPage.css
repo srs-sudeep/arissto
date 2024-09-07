@@ -1,0 +1,44 @@
+.paper-item {
+    display: flex;
+    justify-content: space-between !important;
+    align-items: center;
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+}
+
+.paper-item:last-child {
+    border-bottom: none;
+}
+
+.paper-item > div {
+    max-width: 80%;
+}
+
+.paper-item h6 {
+    margin: 0;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.paper-item .MuiTypography-subtitle1 {
+    margin: 5px 0;
+    color: #555;
+}
+
+.paper-item .MuiTypography-body2 {
+    color: #888;
+}
+
+.MuiButton-outlined {
+    text-transform: none;
+}
+
+.MuiButton-outlined:hover {
+    background-color: rgba(0, 0, 0, 0.1);
+}
+.search-bar {
+    display: flex;
+    align-items: center;
+    padding: 8px;
+    margin-bottom: 16px;
+}
